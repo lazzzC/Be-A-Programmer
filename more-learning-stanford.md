@@ -1,4 +1,4 @@
-1. cs106A Programming Methodology (using Java)
+1. [cs106A](https://see.stanford.edu/Course/CS106A) Programming Methodology(using Java)
 2. cs106B Programming Abstraction (using C++)
 3. cs106L Standard C++ Programmming
 4. cs103A+B/X Discrete Mathematics (P = NP?)
