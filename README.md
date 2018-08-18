@@ -15,11 +15,10 @@ EMACS LISP | Emacs | Yet to try | Beginner
 Swift | Ios and Macos programming | Yet to try | Beginner
 
 ## Courses to Computer Science
-Courses |
- | -- |
- | []Algorithms |
- | []Computer System |
- | []Operation System |
+Courses
+ - [ ] Algorithms
+ - [ ] Computer System
+ - [ ] Operation System
 
 ## Stduy Materials
 ### Python
