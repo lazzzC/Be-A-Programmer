@@ -31,6 +31,7 @@ Swift | Ios and Macos programming | Yet to try | Beginner
     - [x] [intro to javascript](https://www.udacity.com/course/intro-to-javascript--ud803) `2 weeks`
     - [ ] [*html5 canvas*](https://www.udacity.com/course/html5-canvas--ud292) `2 weeks`
   - intermediate:
+    - [ ] [*Responsive Images*](https://www.udacity.com/course/responsive-images--ud882) `2 weeks`
     - [ ] [*javascript and dom*](https://www.udacity.com/course/javascript-and-the-dom--ud117) `4 weeks`
     - [x] [object oriented javascript](https://www.udacity.com/course/object-oriented-javascript--ud711) `3 weeks`
     - [ ] [website performance optimization](https://www.udacity.com/course/website-performance-optimization--ud884) `1 week`
