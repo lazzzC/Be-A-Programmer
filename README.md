@@ -6,7 +6,7 @@ Language | Usages | My Level | Target Level
 -- | -- | -- | --
 Python | Best for beginners, Backend, AI, ML and etc.. | Intermediate | Advanced
 Bash | Small scripts for linux | Yet to try | Beginner
-Javascript | Frontend, Backend(node.js) | Trying | Advanced
+[Javascript](/javascript.md) | Frontend, Backend(node.js) | Trying | Advanced
 HTML+CSS | Not a programming language but useful for web design | Beginner | Intermediate
 C++ | Backend, Applications on everywhere, Games | Yet to try | Beginner
 JAVA | with JVM, can be used for Backend, Android and everywhere | Beginner | Intermediate
